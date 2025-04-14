@@ -1,0 +1,44 @@
+torch --index-url https://download.pytorch.org/whl/cu126
+torchvision --index-url https://download.pytorch.org/whl/cu126
+torchaudio --index-url https://download.pytorch.org/whl/cu126
+Pillow
+GitPython
+accelerate
+numpy
+requests
+transformers
+opencv-python
+pyyaml
+scipy
+tqdm
+psutil
+py-cpuinfo
+pandas
+seaborn
+ultralytics-thop
+six
+statsmodels
+pydub
+resampy
+ffmpeg-python
+cma
+librosa
+numba
+sortedcontainers
+h5py
+multiprocess
+tensorflow
+scikit-learn
+timm
+catboost
+GPy
+lightgbm
+xgboost
+jax
+pytest
+kornia
+mypy
+black
+ruff
+pycodestyle
+pylint

@@ -1,0 +1,2 @@
+-e ./repository/ultralytics
+-e ./repository/adversarial-robustness-toolbox
